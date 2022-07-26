@@ -1,9 +1,7 @@
 ---
-name: Kevin Lin
+name: Sonam Benakatti
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+pronouns: she/her
+email: sonam@aamu.edu
+photo: sonam.jpg
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
