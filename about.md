@@ -16,18 +16,74 @@ description: >-
 
 ---
 
-## About
+Note: This page contains helpful information and resources, but is *not* the official syllabus. Please take a look at the [class syllabus](broken link for now) which also contains official university policies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+## Overview
+CS104 is an introductory class using the Python programming language, designed for students with no formal exposure to computer science or programming. The goal is to provide fundamentals that will prepare students to either take further computer science courses, or use computer science in their field of study.
 
-## Lecture
+## Course Meetings
+Lectures and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+### Lecture
+You are expected to come to each class as there will be quizzes given at a random time during class. Please see the [official syllabus](broken link for now) for more information on the attendance policy.
+
+### Office Hours
+
+We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will contain a link in the event that can be found at the [course schedule page](schedule.md). In-person office hours will be held in Sonam's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out. 
+
+If you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
+
+## Policies
+
+### Grades
+Your final grade will be based on buckets of your overall score in the class that will be decided at the end of the semester based on attendance and the difficulty of the exams, quizzes, and homework.
+
+Your overall grade will be calculated using the following relative weights:
+
+* This calculation is copy/pasted and needs to be updated! Please ignore.
+
+| Assignment Type | # of Assignments | Number Dropped | Weight in Overall Grade |
+|:-------------|:------------------|:------|:------|
+| Midterm Exam(s) | 2 | 0  | 23% |
+| Final Exam | 1 | 0  | 17% |
+| Homeworks | 5 | 0  | 15% |
+| Labs | 12 | 2  | 23% |
+| Projects | 2 | 0 | 17% |
+| Quiz | 8 | 1 | 5% |
+
+Your final letter grade will be determined using the following scale:
+
+| Percent of points | Grade |
+|:-------------|:------------------|
+| >=90% | A | 
+| >=80% | B |
+| >=70% | C |
+| >=60% | D |
+| <=60% | F |
+
+### Assignments
+
+* TODO(Add info on assignments and due dates). 
+
+### Exams
+There will be one midterm and one final exam. The midterm will take place the week of Oct 17. The final will take place the week of Dec 5. 
+
+### Cheating
+
+For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. Instead of considering cheating, please reach out when you need help. 
+
+We will be using software to detect plaigarism. If we ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. 
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+This course website, [cs104.org](https://www.cs104.org), will be a helpful resource for the schedule, lecture topics, and assignment links. Additionally, we will be using the following software:
 
-## Assignments
+* TODO(Update this with other things the class uses).
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+**Blackboard**
+Your official class grades will be published in Blackboard. Some students will also be using Blackboard Collaborate to join lectures virtually.
+
+### Material Attribution
+Although some course material will be created by Sonam, I would like to acknowledge that I am heavily borrowing from past iterations of this course, as well as intro courses at various schools taught by GIR instructors.
+
+This website uses [Just the Class](https://github.com/kevinlin1/just-the-class) as a foundation with inspiration from [csci100.org](https://www.csci100.org).
