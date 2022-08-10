@@ -35,21 +35,21 @@ If you are behind or confused, please reach out for help. The course staff will 
 
 ## Policies
 
+Please note this information is subject to change depending on various factors throughout the course of the semester.
+
 ### Grades
 Your final grade will be based on buckets of your overall score in the class that will be decided at the end of the semester based on attendance and the difficulty of the exams, quizzes, and homework.
 
 Your overall grade will be calculated using the following relative weights:
 
-* This calculation is copy/pasted and needs to be updated! Please ignore.
 
-| Assignment Type | # of Assignments | Number Dropped | Weight in Overall Grade |
+| Assignment Type | Weight in Overall Grade |
 |:-------------|:------------------|:------|:------|
-| Midterm Exam(s) | 2 | 0  | 23% |
-| Final Exam | 1 | 0  | 17% |
-| Homeworks | 5 | 0  | 15% |
-| Labs | 12 | 2  | 23% |
-| Projects | 2 | 0 | 17% |
-| Quiz | 8 | 1 | 5% |
+| Attendance/In-class quizzes | 15% |
+| Homeworks/Classwork | 55% |
+| Midterm Exam | 10% |
+| Final Exam/Final Project | 20% |
+
 
 Your final letter grade will be determined using the following scale:
 
@@ -63,7 +63,7 @@ Your final letter grade will be determined using the following scale:
 
 ### Assignments
 
-* TODO(Add info on assignments and due dates). 
+There will homeworks due every Tuesday at 10:00 PM, with the following homework released every Wednesday morning. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
 
 ### Exams
 There will be one midterm and one final exam. The midterm will take place the week of Oct 17. The final will take place the week of Dec 5. 
@@ -78,12 +78,16 @@ We will be using software to detect plaigarism. If we ask you how your code work
 
 This course website, [cs104.org](https://www.cs104.org), will be a helpful resource for the schedule, lecture topics, and assignment links. Additionally, we will be using the following software:
 
-* TODO(Update this with other things the class uses).
+**EdStem**
+We will use EdStem for class discussion as well as assignments and quizzes. You will receive a link to sign up when we begin class. You are highly encouraged to post questions regarding the class directly on EdStem.
+
+**Python Tutor**
+Python Tutor is a helpful tool to visualize your code. You may use this to help debug homework assignments and understand concepts learned in class.
 
 **Blackboard**
 Your official class grades will be published in Blackboard. Some students will also be using Blackboard Collaborate to join lectures virtually.
 
 ### Material Attribution
-Although some course material will be created by Sonam, I would like to acknowledge that I am heavily borrowing from past iterations of this course, as well as intro courses at various schools taught by GIR instructors.
+Although some course material will be created by Sonam, I would like to acknowledge that I am heavily borrowing from past iterations of this course with advice from Ms. Miller, as well as intro courses at various schools taught by GIR instructors.
 
 This website uses [Just the Class](https://github.com/kevinlin1/just-the-class) as a foundation with inspiration from [csci100.org](https://www.csci100.org).

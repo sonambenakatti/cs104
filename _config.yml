@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS 104
-tagline: Alabama A&M CS104 Fall 2022
+tagline: Alabama A&M CS 104 Fall 2022
 description: Introduction to Computers and Ethics (Python)
 author: Sonam Benakatti
 baseurl: '/' # the subpath of your site, e.g. /blog
@@ -31,7 +31,7 @@ aux_links:
   Blackboard:
     - 'google.com'
   EdStem:
-    - 'google.com'
+    - 'https://edstem.org/us/courses/24500/'
   PythonTutor:
     - 'https://pythontutor.com/composingprograms.html#mode=edit'
 footer_content:

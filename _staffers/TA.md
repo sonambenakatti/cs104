@@ -1,5 +1,5 @@
 ---
-name: Evil Kevin
+name: Name here
 role: Teaching Assistant
 email: me@example.com
 website: https://kevinl.info
