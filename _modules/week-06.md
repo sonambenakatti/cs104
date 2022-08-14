@@ -4,9 +4,9 @@ title: Week 6
 
 **Functions**
 
-Sep 20
+Sep 22
 :  **HW 4 Due**{: .label .label-red }
 
-Sep 21
+Sep 23
 :  **HW 5 Released**{: .label .label-blue } HW 5: Functions
 

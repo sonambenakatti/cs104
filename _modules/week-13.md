@@ -2,9 +2,9 @@
 title: Week 13
 ---
 
-Nov 8
+Nov 10
 :  **HW 10 Due**{: .label .label-red }
 
-Nov 9
+Nov 11
 :  **Final Project Released**{: .label .label-blue } Final Project
 

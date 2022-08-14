@@ -63,7 +63,7 @@ Your final letter grade will be determined using the following scale:
 
 ### Assignments
 
-There will homeworks due every Tuesday at 10:00 PM, with the following homework released every Wednesday morning. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
+There will homeworks due every Thursday at 10:00 PM, with the following homework released every Friday. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
 
 ### Exams
 There will be one midterm and one final exam. The midterm will take place the week of Oct 17. The final will take place the week of Dec 5. 

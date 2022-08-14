@@ -4,9 +4,9 @@ title: Week 12
 
 **Recursion**
 
-Nov 1
+Nov 3
 :  **HW 9 Due**{: .label .label-red }
 
-Nov 2
+Nov 4
 :  **HW 10 Released**{: .label .label-blue } HW 10: Recursion
 
