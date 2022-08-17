@@ -1,6 +1,7 @@
 ---
 name: Ms. Terry Miller
 role: Instructor
+pronouns: she/her
 email: terry.miller@aamu.edu
 photo: terry.jpg
 ---

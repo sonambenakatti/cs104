@@ -45,8 +45,8 @@ Your overall grade will be calculated using the following relative weights:
 
 | Assignment Type | Weight in Overall Grade |
 |:-------------|:------------------|:------|:------|
-| Attendance/In-class quizzes | 15% |
-| Homeworks/Classwork | 55% |
+| Attendance/In-class quizzes | 10% |
+| Homeworks/Classwork | 60% |
 | Midterm Exam | 10% |
 | Final Exam/Final Project | 20% |
 
