@@ -2,7 +2,7 @@
 title: Week 2
 ---
 
-**Data Types, Operators, Variables**
+**Intro, Data Types, Operators, Variables**
 
 Aug 25
 :  **HW 0 Due**{: .label .label-red }
