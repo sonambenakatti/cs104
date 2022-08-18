@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-Note: This page contains helpful information and resources, but is *not* the official syllabus. Please take a look at the [class syllabus](broken link for now) which also contains official university policies.
+Note: This page contains helpful information and resources, but is *not* the official syllabus. Please take a look at the [class syllabus](https://docs.google.com/document/d/1zg6YfcfTuRO4DIXUR0B1AyBgC1oDo-U1/edit?usp=sharing&ouid=100341720471046122853&rtpof=true&sd=true) which also contains official university policies.
 
 ## Overview
 CS104 is an introductory class using the Python programming language, designed for students with no formal exposure to computer science or programming. The goal is to provide fundamentals that will prepare students to either take further computer science courses, or use computer science in their field of study.
@@ -25,7 +25,7 @@ CS104 is an introductory class using the Python programming language, designed f
 Lectures and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
 ### Lecture
-You are expected to come to each class as there will be quizzes given at a random time during class. Please see the [official syllabus](broken link for now) for more information on the attendance policy.
+You are expected to come to each class as there will be quizzes given at a random time during class. Please see the [official syllabus](https://docs.google.com/document/d/1zg6YfcfTuRO4DIXUR0B1AyBgC1oDo-U1/edit?usp=sharing&ouid=100341720471046122853&rtpof=true&sd=true) for more information on the attendance policy.
 
 ### Office Hours
 
