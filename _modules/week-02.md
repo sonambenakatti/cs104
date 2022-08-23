@@ -2,7 +2,7 @@
 title: Week 2
 ---
 
-**[Intro](https://docs.google.com/presentation/d/1DAMEM6X6DtdpChmecqLdgjwtfyKY0P8HjOKjEyNpw7o/edit?usp=sharing), Data Types, Operators, Variables**
+**[Intro](https://docs.google.com/presentation/d/1DAMEM6X6DtdpChmecqLdgjwtfyKY0P8HjOKjEyNpw7o/edit?usp=sharing), [Data Types](https://docs.google.com/presentation/d/1-QEQaddz8XzCEkBK5vOTIClNZY07fYf0gDMzHSvYYns/edit?usp=sharing), Operators, Variables**
 
 Aug 25
 :  **HW 0 Due**{: .label .label-red }
