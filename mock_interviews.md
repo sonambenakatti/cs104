@@ -4,7 +4,7 @@ title: Mock Interviews
 description: Description of mock interviews and how to sign up for interviews
 ---
 
-# Mock Interview
+# Mock Interviews
 We have Google Engineers that will provide free mock interviews to you.
 
 
