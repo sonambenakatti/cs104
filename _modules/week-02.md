@@ -8,5 +8,4 @@ Aug 25
 :  **HW 0 Due**{: .label .label-red }
 
 Aug 26
-:  **HW 1 Released**{: .label .label-blue } HW 1: Data Types, Operators, Variables
-
+:  **HW 1 Released**{: .label .label-blue } [HW 1: Data Types, Operators, Variables](https://edstem.org/us/courses/24500/lessons/41700/slides/235184)
