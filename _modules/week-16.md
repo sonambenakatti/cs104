@@ -2,7 +2,8 @@
 title: Week 16
 ---
 
-**Ethics**
+TBD
+: Final Exam
 
-Dec 1
+Nov 29
 :  **Final Project Due**{: .label .label-red }
