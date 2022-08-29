@@ -25,9 +25,11 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 
 ### Mock Interviews with CS 104 Google TAs
 
-Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may as many interviews as you'd like for the remainder of the semester. However, consider spending time working on practice problems between each interview.
+Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. Consider spending time working on practice problems between each interview and sign up for only 1 per week to allow multiple students to sign up.
 
 Please sign up a few hours in advance to give the Google TA notice (e.g. do not sign up for an appointment 15 minutes before it is scheduled). If these timings do not work but you'd still like to attend a mock interview, reach out to Sonam to find more times. 
+
+Use a gmail account so that a Google Meet link will be added to your Google Calendar.
 
 [Schedule a Mock Interview](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5qRzFsdVFqOW8wfGRlZmF1bHR8ZWM1ZWE1ZmI1ZWFiMGNjZWMwZjE5YTc4ODc4Yjc0MzI){: .btn .btn-outline }
 
