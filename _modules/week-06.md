@@ -2,11 +2,11 @@
 title: Week 6
 ---
 
-**Functions**
+**For loops**
 
 Sep 22
 :  **HW 4 Due**{: .label .label-red }
 
 Sep 23
-:  **HW 5 Released**{: .label .label-blue } HW 5: Functions
+:  **HW 5 Released**{: .label .label-blue } HW 5: For loops
 
