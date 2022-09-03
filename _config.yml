@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Blackboard:
-    - 'google.com'
+    - 'https://aamu.blackboard.com/'
   EdStem:
     - 'https://edstem.org/us/courses/24500/'
   PythonTutor:
