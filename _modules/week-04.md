@@ -4,7 +4,7 @@ title: Week 4
 
 **Functions**
 
-Sep 8
+Sep 9
 :  **HW 2 Due**{: .label .label-red }
 
 Sep 9
