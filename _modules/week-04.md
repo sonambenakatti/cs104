@@ -8,5 +8,5 @@ Sep 9
 :  **HW 2 Due**{: .label .label-red }
 
 Sep 9
-:  **HW 3 Released**{: .label .label-blue } HW 3: Functions
+:  **HW 3 Released**{: .label .label-blue } [HW 3: Functions](https://edstem.org/us/courses/24500/lessons/43556/slides/251433)
 
