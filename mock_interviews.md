@@ -13,7 +13,9 @@ There are many internships specifically for freshmen and sophomores, which you s
 
 [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step)
 
-[Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students)
+[Explore Microsoft](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram)
+
+[Bank of America Global Technology Freshman Summer Analyst Program](https://bankcampuscareers.tal.net/vx/lang-en-GB/candidate/postings/6590)
 
 ## Resumes
 
