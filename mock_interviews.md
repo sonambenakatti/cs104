@@ -1,12 +1,39 @@
 ---
 layout: page
-title: Mock Interviews
-description: Description of mock interviews and how to sign up for interviews
+title: Career Info
 ---
 
-# Mock Interviews
-We have Google Engineers that will provide free mock interviews to you.
+# Career Info
 
+## Internships
+
+### Freshmen/Sophomore Internships
+
+There are many internships specifically for freshmen and sophomores, which you should apply to even if you don't have much programming experience.
+
+[Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step)
+
+[Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students)
+
+## Resumes
+
+You can use [creddle.io](creddle.io) for free resume templates.
+
+You can also reach out to Darian Ubogagu, the Google HBCU Program Manager for Alabama A&M, for help with creating a resume or reviewing the resume that you’ve created. Her email is darianep@google.com.
+
+
+## Interview Prep
+
+### What are some good resources to help you prepare for technical interviews?
+
+- [CodingBat Practice Problems](https://codingbat.com/python){:target="_blank"} has good warmup problems to practice with
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/){:target="_blank"} is a solid book to learn or review core CS concepts and how to use them in interviews. For freshmen, this book may be a bit too advanced.
+- [LeetCode](https://leetcode.com/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target="_blank"} have tons of practice questions with automatic testing
+
+
+## Mock Interviews 
+
+We have Google Engineers that will provide free mock interviews to you.
 
 ### What will the mock interviews be like?
 
@@ -15,12 +42,6 @@ The goal of the interviews is to simulate what real technical interviews may be 
 Your interviewer will come prepared with a question (or maybe a few, depending on question difficulty). Don’t be afraid to ask clarifying questions - the interview should feel more like a conversation and less like an interrogation. If something is confusing, talk through it with your interviewer and they can help push you in the right direction.
 
 Afterwards, your interviewer will provide you with feedback as well as tips on how to improve your interviewing skills. 
-
-### What are some good resources to help you prepare?
-
-- [CodingBat Practice Problems](https://codingbat.com/python){:target="_blank"} has good warmup problems to practice with
-- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/){:target="_blank"} is a solid book to learn or review core CS concepts and how to use them in interviews. For freshmen, this book may be a bit too advanced.
-- [LeetCode](https://leetcode.com/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target="_blank"} have tons of practice questions with automatic testing
 
 
 ### Mock Interviews with CS 104 Google TAs
@@ -32,6 +53,3 @@ Please sign up a few hours in advance to give the Google TA notice (e.g. do not 
 Use a gmail account so that a Google Meet link will be added to your Google Calendar.
 
 [Schedule a Mock Interview](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5qRzFsdVFqOW8wfGRlZmF1bHR8ZWM1ZWE1ZmI1ZWFiMGNjZWMwZjE5YTc4ODc4Yjc0MzI){: .btn .btn-outline }
-
-
-Coming soon: Information on various internships you can apply for, and how to get in contact with the Alabama A&M Google recruiter.
