@@ -2,7 +2,7 @@
 title: Week 6
 ---
 
-**Strings, While loops**
+**[Strings](https://docs.google.com/presentation/d/1hlpHwvC1BYmHyvSyIT-jMaGhVw7VgYfqgkRjNXG2K2U/edit?usp=sharing), While loops**
 
 Sep 22
 :  **HW 4 Due**{: .label .label-red }
