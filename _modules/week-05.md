@@ -11,5 +11,5 @@ Sep 15
 :  **HW 3 Due**{: .label .label-red }
 
 Sep 16
-:  **HW 4 Released**{: .label .label-blue } HW 4: More Functions
+:  **HW 4 Released**{: .label .label-blue } [HW 4: More Functions](https://edstem.org/us/courses/24500/lessons/43970/slides/254930)
 
