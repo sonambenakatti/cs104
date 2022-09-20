@@ -4,7 +4,7 @@ title: Week 7
 
 **For Loops**
 
-Sep 29
+Sep 30
 :  **HW 5 Due**{: .label .label-red }
 
 Sep 30
