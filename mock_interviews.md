@@ -19,7 +19,7 @@ There are many internships specifically for freshmen and sophomores, which you s
 
 ## Resumes
 
-You can use [creddle.io](https://creddle.io) for free resume templates.
+You can use [creddle.io](http://creddle.io) for free resume templates.
 
 You can also reach out to Darian Ubogagu, the Google HBCU Program Manager for Alabama A&M, for help with creating a resume or reviewing the resume that you’ve created. Her email is darianep@google.com.
 
