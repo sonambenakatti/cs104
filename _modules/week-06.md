@@ -8,5 +8,5 @@ Sep 22
 :  **HW 4 Due**{: .label .label-red }
 
 Sep 23
-:  **HW 5 Released**{: .label .label-blue } HW 5: Strings, While loops
+:  **HW 5 Released**{: .label .label-blue } [HW 5: Strings, While loops](https://edstem.org/us/courses/24500/lessons/44596/slides/256852)
 
