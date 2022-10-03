@@ -2,7 +2,7 @@
 title: Week 8
 ---
 
-**Lists**
+**[Lists](https://docs.google.com/presentation/d/17_Uj8PcEqnQHEsO5kgB84_ywsK2bhNtZt7QsJvfTmyw/edit#slide=id.p)**
 
 Oct 6
 :  **HW 6 Due**{: .label .label-red }
