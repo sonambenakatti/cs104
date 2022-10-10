@@ -5,6 +5,6 @@ title: Week 13
 **Ethics**
 
 Nov 10
-:  **HW 10 Due**{: .label .label-red }
+:  **HW 9 Due**{: .label .label-red }
 
 
