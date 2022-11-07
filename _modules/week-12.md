@@ -8,5 +8,5 @@ Nov 3
 :  **HW 8 Due**{: .label .label-red }
 
 Nov 4
-:  **HW 9 Released**{: .label .label-blue } HW 9: Dictionaries
+:  **HW 9 Released**{: .label .label-blue } [HW 9: Dictionaries](https://edstem.org/us/courses/24500/lessons/47525/slides/270721)
 
