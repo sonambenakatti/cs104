@@ -2,7 +2,7 @@
 title: Week 16
 ---
 
-TBD
+11/30 & 12/1
 : Final Exam
 
 
